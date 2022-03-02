@@ -2,9 +2,8 @@
 - 👀 I’m interested in WEB DEV
 - 🌱 I’m currently learning Computer Scince
 - 📫 How to reach me:
-
-      email: askurkure123@gmail.com
-      linkedin:https://tinyurl.com/Aroma-Sinha-linkedin
+- email: askurkure123@gmail.com
+- linkedin:https://tinyurl.com/Aroma-Sinha-linkedin
 
 <!---
 AromaSinha/AromaSinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
